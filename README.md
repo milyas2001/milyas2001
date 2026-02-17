@@ -257,11 +257,13 @@ Multi-cloud cost optimization platform with Terraform-managed infrastructure, au
 <!-- ========== CONTRIBUTION SNAKE ========== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milyas2001/milyas2001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milyas2001/milyas2001/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/milyas2001/milyas2001/output/github-snake-dark.svg" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milyas2001/milyas2001/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milyas2001/milyas2001/output/github-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/milyas2001/milyas2001/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <br/><br/>
 
